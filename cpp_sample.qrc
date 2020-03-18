@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>custom.qml</file>
+        <file>undirected_graph.qml</file>
+        <file>app.qml</file>
+        <file>CustomNode.qml</file>
+        <file>directed_graph.qml</file>
+        <file>componentCreation.js</file>
+    </qresource>
+</RCC>
